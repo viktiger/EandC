@@ -46,4 +46,4 @@ Various, including personal experience
 
 ## **Project Authors:**
 Authors:
-Vik Shah - https://github.com/viktiger
+Vik Tiger - https://github.com/viktiger
