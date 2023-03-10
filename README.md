@@ -3,17 +3,16 @@
 ![Alt Text](https://media.giphy.com/media/fp0MsYYaQQtQtCJXxr/giphy.gif)
 
 ## About:
-Website
+Home website, with branches or realms to seperate websites, only accessible by password. All work copyrighted!\
 
 ## Plan:
-(1) Home website, with branches or realms to seperate websites, only accessible by password. All work copyrighted!\
 Vision Realm, Imagine Realm, Bazaar Realm, Explore Realm, Moments Realm.\
-(2) Vision Realm: Bucket list, password protected.\
-(3) Imagine Realm: Bedtime stories & e-Book.\
-(4) Bazaar Realm: Buy & sell items.\
-(5) Explore Realm: Australia Map, with toggle 3 Days, 7 Days, Long Term.\
-Explore Realm: International coming soon.\
-(6) Moments: Albums, password protected.
+(1) Vision Realm: Bucket list, password protected.\
+(2) Imagine Realm: Bedtime stories & e-Book.\
+(3) Bazaar Realm: Buy & sell items.\
+(4) Explore Realm: Australia Map, with toggle 3 Days, 7 Days, Long Term.\
+(4b) Explore Realm: International coming soon.\
+(5) Moments: Albums, password protected.
 
 ## **Notes:**
 - Limitations
