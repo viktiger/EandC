@@ -1,8 +1,9 @@
 # TigerWeb
+
 ![Alt Text](https://giphy.com/gifs/loop-80s-l1J3rGigrYfx8aKqI/giphy.gif)
 
 ## About:
-Home website, with branches or realms to seperate websites, only accessible by password. All work copyrighted!\
+Home website, with branches or realms to seperate websites, only accessible by password. All work copyrighted!
 
 ## Plan:
 Vision Realm, Imagine Realm, Bazaar Realm, Explore Realm, Moments Realm.\
