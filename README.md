@@ -1,6 +1,5 @@
 # TigerWeb
-
-![Alt Text](https://media.giphy.com/media/fp0MsYYaQQtQtCJXxr/giphy.gif)
+![Alt Text](https://giphy.com/gifs/loop-80s-l1J3rGigrYfx8aKqI/giphy.gif)
 
 ## About:
 Home website, with branches or realms to seperate websites, only accessible by password. All work copyrighted!\
