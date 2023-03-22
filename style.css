@@ -1,4 +1,4 @@
-
+/* 
 .About {
   position: relative;
   text-align: center;
@@ -9,10 +9,26 @@
   position: relative;
   text-align: center;
   color: black;
+} */
+
+.VicPhotos > img:hover {
+  width: 500px;
+  height: 200px;
+}
+
+.VicPhotos  
+{  
+  height:275px;  
+  float:left;  
+  position:relative;  
+}  
+.VicPhotos:hover img  
+{  
+  height: 300px;  
 }
 
 /* Text underneath comparison graphs */
-.caption {
+/* .caption {
   position: relative;
   text-align: center;
   background: white;
@@ -27,97 +43,52 @@
 
 .dropdown-divider {
   background: grey;
-}
-
-/* Container holding the image and the text used on about page --- home page can be simplified to remove container class */
-/* .container {
-  position: relative;
-  text-align: center;
-  color: black;
 } */
 
-/* About page text */
+
+/* Australia page text */
 .about-text-block {
   position: absolute;
   top: 20%;
   left: 20%;
+  right: 20%;
   /* transform: translate(-50%, -50%); */
-  background-color: whitesmoke; opacity:0.5;
+  background-color: whitesmoke; opacity:0.8;
   color: black;
   padding-left: 10%;
   padding-right: 10%;
 }
 
 /* Data page text */
-.data-text-block {
+/* .data-text-block {
   position: absolute;
   top: 20%;
-  left: 10%;
+  left: 10%; */
   /* transform: translate(-50%, -50%); */
-  background-color: whitesmoke; opacity:0.5;
+  /* background-color: whitesmoke; opacity:0.5;
   color: black;
   padding-left: 10%;
   padding-right: 10%;
-}
+} */
 
-.imageWrapper {
+/* .imageWrapper {
   opacity: 1;
-}
+} */
 
 /* Visualizations page text */
-.visual-text-block {
+/* .visual-text-block {
   position: absolute;
   top: 20%;
-  left: 5%;
+  left: 5%; */
   /* transform: translate(-50%, -50%); */
-  background-color: whitesmoke; opacity:0.5;
+  /* background-color: whitesmoke; opacity:0.5;
   color: black;
   padding-left: 10%;
   padding-right: 10%;
-}
+} */
 
-.container img {
+/* .container img {
   max-width: 100%;
   height: auto;
   display: block;
-}
-
-/* 
-.nav-item {
-  position: absolute;
-  margin-top: 80px;
-  bottom: 8px;
-  left: 16px;
-  color: black;
-  height: 400px;
-  padding: 20px;
-}
-
-.navbar-brand {
-  background: deepskyblue;
-}
-
-.dropdown-item {
-  color: black;
-}
-
-.dropdown-menu {
-  color: black;
-}
-
-.navbar-toggler {
-  color: #fff;
-} */
-
-/* .navbarSupportedContent {
-  color: #fff;
-} */
-
-/* Top left text
-.top-left {
-  position: absolute;
-  top: 8px;
-  left: 16px;
-  right: 16px;
-  bottom: 8px;
 } */
