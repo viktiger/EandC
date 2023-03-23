@@ -1,50 +1,9 @@
-/* 
+
 .About {
   position: relative;
   text-align: center;
   color: black;
 }
-
-.Comparison {
-  position: relative;
-  text-align: center;
-  color: black;
-} */
-
-.VicPhotos > img:hover {
-  width: 500px;
-  height: 200px;
-}
-
-.VicPhotos  
-{  
-  height:275px;  
-  float:left;  
-  position:relative;  
-}  
-.VicPhotos:hover img  
-{  
-  height: 300px;  
-}
-
-/* Text underneath comparison graphs */
-/* .caption {
-  position: relative;
-  text-align: center;
-  background: white;
-  color: black;
-}
-
-.Datasource {
-  position: relative;
-  text-align: center;
-  color: black;
-}
-
-.dropdown-divider {
-  background: grey;
-} */
-
 
 /* Australia page text */
 .about-text-block {
@@ -59,36 +18,17 @@
   padding-right: 10%;
 }
 
-/* Data page text */
-/* .data-text-block {
-  position: absolute;
-  top: 20%;
-  left: 10%; */
-  /* transform: translate(-50%, -50%); */
-  /* background-color: whitesmoke; opacity:0.5;
-  color: black;
-  padding-left: 10%;
-  padding-right: 10%;
-} */
-
-/* .imageWrapper {
-  opacity: 1;
-} */
-
-/* Visualizations page text */
-/* .visual-text-block {
-  position: absolute;
-  top: 20%;
-  left: 5%; */
-  /* transform: translate(-50%, -50%); */
-  /* background-color: whitesmoke; opacity:0.5;
-  color: black;
-  padding-left: 10%;
-  padding-right: 10%;
-} */
-
-/* .container img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+/* VicPhotos page image */
+.imgLink { border: none; background: none; }
+.imgLink img
+{
+  height: 15rem;
+}
+.imgLink:active img, .imgLink:focus img
+{
+  height: 50rem;
+}
+/* .imgLink:active img, .imgLink:focus img
+{
+  height: 15rem;
 } */
